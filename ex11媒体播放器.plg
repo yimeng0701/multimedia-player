@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ex11媒体播放器 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lirong\AppData\Local\Temp\RSP5674.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/ex11媒体播放器.pdb" /machine:I386 /out:"Release/ex11媒体播放器.exe" 
+".\Release\BControl.obj"
+".\Release\BForm.obj"
+".\Release\BMenuItem.obj"
+".\Release\BTimer.obj"
+".\Release\BWindows.obj"
+".\Release\BWndBase.obj"
+".\Release\mdlFileSys.obj"
+".\Release\mdlOpenSaveDlg.obj"
+".\Release\mdlPathDlg.obj"
+".\Release\mdlShellExec.obj"
+".\Release\main.obj"
+".\Release\mdlMCI.obj"
+".\Release\窗体.res"
+]
+Creating command line "link.exe @C:\Users\lirong\AppData\Local\Temp\RSP5674.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+ex11媒体播放器.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,30 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by ´°Ìו.rc
+!
+      integer, parameter :: IDD_DIALOG1                     = 101
+      integer, parameter :: ID_form1                        = 101
+      integer, parameter :: IDI_ICON1                       = 102
+      integer, parameter :: ID_frmPlayList                  = 105
+      integer, parameter :: ID_cmdOpen                      = 1001
+      integer, parameter :: ID_cmdPlay                      = 1002
+      integer, parameter :: ID_cmdStop                      = 1003
+      integer, parameter :: ID_cmdPrey                      = 1004
+      integer, parameter :: ID_cmdPrev                      = 1004
+      integer, parameter :: ID_cmdNext                      = 1005
+      integer, parameter :: ID_cmdList                      = 1006
+      integer, parameter :: ID_lstPlayList                  = 1007
+      integer, parameter :: ID_lblName                      = 1008
+      integer, parameter :: ID_lblNum                       = 1009
+      integer, parameter :: ID_lblStatus                    = 1010
+      integer, parameter :: ID_proPlay                      = 1011
+      integer, parameter :: ID_lblPos                       = 1012
+      integer, parameter :: ID_lstFiles                     = 1013
+      integer, parameter :: ID_lstListSet                   = 1014
+      integer, parameter :: ID_cmdBrowse                    = 1015
+      integer, parameter :: ID_cmdRightAll                  = 1016
+      integer, parameter :: ID_cmdRight                     = 1017
+      integer, parameter :: ID_cmdLeft                      = 1018
+      integer, parameter :: ID_cmdLeftAll                   = 1019
+      integer, parameter :: ID_cmdOK                        = 1020
+      integer, parameter :: ID_cmdCancel                    = 1021
